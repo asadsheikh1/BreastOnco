@@ -15,8 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+![1](https://github.com/asadsheikh1/BreastOnco/assets/79190719/5d584eab-e430-40d7-842c-710f128511b8)
 
-![1](https://github.com/asadsheikh1/BreastOnco/assets/79190719/cb72af50-273e-4ec0-9d3f-4f57c3c29708)
-
-
-![2](https://github.com/asadsheikh1/BreastOnco/assets/79190719/8a3d44ba-d2f7-4d07-8f43-73c9b3e7f260)
+![2](https://github.com/asadsheikh1/BreastOnco/assets/79190719/93d650f3-c074-49fc-a879-bd92f8428ad6)
