@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "364492456565",
+    "project_id": "breastonco-ba797",
+    "storage_bucket": "breastonco-ba797.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364492456565:android:bc4334abb8adf4c0c26e3c",
+        "android_client_info": {
+          "package_name": "com.example.breast_onco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNIoRJiqyq337wEIY6VL88iM7OD33ukzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
