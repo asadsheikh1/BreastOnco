@@ -1,12 +1,12 @@
 # BreastOnco
 
+📸 Upload your mammogram image and answer a few questions. 🧠 Our app, powered by TensorFlow machine learning models, predicts whether your results are benign or malignant. 🚀 Utilizing image processing and extensive dataset training, BreastOnco ensures accurate and reliable diagnoses.
+
 ![1](https://github.com/asadsheikh1/BreastOnco/assets/79190719/5d584eab-e430-40d7-842c-710f128511b8)
 
 ![2](https://github.com/asadsheikh1/BreastOnco/assets/79190719/93d650f3-c074-49fc-a879-bd92f8428ad6)
 
 ## Getting Started
-
-📸 Upload your mammogram image and answer a few questions. 🧠 Our app, powered by TensorFlow machine learning models, predicts whether your results are benign or malignant. 🚀 Utilizing image processing and extensive dataset training, BreastOnco ensures accurate and reliable diagnoses.
 
 A few resources to get you started if this is your first Flutter project:
 
